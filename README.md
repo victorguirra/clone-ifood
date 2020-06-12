@@ -39,7 +39,7 @@ Esta é a tela que é aberta ao iniciar o aplicativo, igualmente ao aplicativo o
 
 <div align="center">
     <h1>
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg"  width="150">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg"  width="300">
         <img src="https://ik.imagekit.io/ur6xo9m70i/Home-2_l4QTtoB4O_.jpeg" style="width:80px; margin-left:10px;">
     </h1>
 </div>
