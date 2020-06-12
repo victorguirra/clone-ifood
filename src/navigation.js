@@ -31,7 +31,6 @@ const icons = {
 export default function Navigation(){
     return(
         <Tab.Navigator
-            initialRouteName="Require"
             screenOptions={({ route, navigation}) => ({     
                 tabBarIcon: ({color, size}) => {
 
