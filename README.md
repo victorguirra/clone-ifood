@@ -40,7 +40,7 @@ Esta é a tela que é aberta ao iniciar o aplicativo, igualmente ao aplicativo o
 <div align="center">
     <h1>
         <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg"  width="300">
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-2_l4QTtoB4O_.jpeg" style="width:80px; margin-left:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-2_l4QTtoB4O_.jpeg" width="300">
     </h1>
 </div>
 
@@ -49,7 +49,7 @@ Esta é a tela que é aberta ao iniciar o aplicativo, igualmente ao aplicativo o
 Ao clicar na opção **Busca** na barra de navegação, o usuário é direcionado para a seguinte tela:
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/ur6xo9m70i/Search_YVavYvH8tz.jpeg" style="width:80px">
+    <img src="https://ik.imagekit.io/ur6xo9m70i/Search_YVavYvH8tz.jpeg" width="300">
 </h1>
 
 ### Pedidos 📓 
@@ -57,7 +57,7 @@ Ao clicar na opção **Busca** na barra de navegação, o usuário é direcionad
 Ao navegar para a aba **Pedidos**, o usário é redirecionado para a seguinte tela:
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/ur6xo9m70i/Requests_95bqqiQAi.jpeg" style="width:80px">
+    <img src="https://ik.imagekit.io/ur6xo9m70i/Requests_95bqqiQAi.jpeg" width="300">
 </h1>
 
 ### Perfil 🙋
@@ -66,8 +66,8 @@ E ao selecionar a opção **Perfil** o usuário é redirecionado para a tela com
 
 <div align="center">
     <h1>
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_1_B7mlbupnP.jpeg" style="width:80px; margin-right:10px;">
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_2_zgqwhFjyF.jpeg" style="width:80px; margin-left:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_1_B7mlbupnP.jpeg" width="300">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_2_zgqwhFjyF.jpeg" width="300">
     </h1>
 </div>
 
