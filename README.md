@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://logodownload.org/wp-content/uploads/2017/05/ifood-logo.png" style="width:80px">
+    <img src="https://logodownload.org/wp-content/uploads/2017/05/ifood-logo.png" width="80">
 </h1>
 
 ---
