@@ -99,5 +99,5 @@ Para ter acesso ao projeto, exectue os seguintes comandos em seu terminal:
 ---
 
 <h4 align="center">
-    💻 Desenvolvido por: Victor Hugo Guirra
+    💻   Desenvolvido por: Victor Hugo Guirra
 </h4>
