@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://logodownload.org/wp-content/uploads/2017/05/ifood-logo.png" style="width:200px">
+    <img src="https://logodownload.org/wp-content/uploads/2017/05/ifood-logo.png" style="width:80px">
 </h1>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-## 📔 Sobre
+## 📔  Sobre
 
 O objetivo do projeto foi clonar a interface do aplicativo de Delivery de alimentos **Ifood**!
 
@@ -21,7 +21,7 @@ Neste projeto foram clonadas apenas as principais telas disponíveis na barra de
 
 ---
 
-##  🚀 Tecnologias Utilizadas
+##  🚀  Tecnologias Utilizadas
 
 - React Native
 - React Navigation 5 (Para barra de navegação)
@@ -31,7 +31,7 @@ Neste projeto foram clonadas apenas as principais telas disponíveis na barra de
 
 ---
 
-## 📱 Exibição do Projeto
+## 📱  Exibição do Projeto
 
 ### Ínicio 🏠
 
@@ -39,8 +39,8 @@ Esta é a tela que é aberta ao iniciar o aplicativo, igualmente ao aplicativo o
 
 <div align="center">
     <h1>
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg" style="width:200px; margin-right:10px;">
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-2_l4QTtoB4O_.jpeg" style="width:200px; margin-left:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg" style="width:80px; margin-right:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-2_l4QTtoB4O_.jpeg" style="width:80px; margin-left:10px;">
     </h1>
 </div>
 
@@ -49,7 +49,7 @@ Esta é a tela que é aberta ao iniciar o aplicativo, igualmente ao aplicativo o
 Ao clicar na opção **Busca** na barra de navegação, o usuário é direcionado para a seguinte tela:
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/ur6xo9m70i/Search_YVavYvH8tz.jpeg" style="width:200px">
+    <img src="https://ik.imagekit.io/ur6xo9m70i/Search_YVavYvH8tz.jpeg" style="width:80px">
 </h1>
 
 ### Pedidos 📓 
@@ -57,7 +57,7 @@ Ao clicar na opção **Busca** na barra de navegação, o usuário é direcionad
 Ao navegar para a aba **Pedidos**, o usário é redirecionado para a seguinte tela:
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/ur6xo9m70i/Requests_95bqqiQAi.jpeg" style="width:200px">
+    <img src="https://ik.imagekit.io/ur6xo9m70i/Requests_95bqqiQAi.jpeg" style="width:80px">
 </h1>
 
 ### Perfil 🙋
@@ -66,14 +66,14 @@ E ao selecionar a opção **Perfil** o usuário é redirecionado para a tela com
 
 <div align="center">
     <h1>
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_1_B7mlbupnP.jpeg" style="width:200px; margin-right:10px;">
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_2_zgqwhFjyF.jpeg" style="width:200px; margin-left:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_1_B7mlbupnP.jpeg" style="width:80px; margin-right:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Profile_-_2_zgqwhFjyF.jpeg" style="width:80px; margin-left:10px;">
     </h1>
 </div>
 
 ---
 
-## 📂 Acessando o projeto
+## 📂  Acessando o projeto
 
 Para ter acesso ao projeto, exectue os seguintes comandos em seu terminal:
 
