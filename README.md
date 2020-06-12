@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://logodownload.org/wp-content/uploads/2017/05/ifood-logo.png" width="80">
+    <img src="https://logodownload.org/wp-content/uploads/2017/05/ifood-logo.png" width="150">
 </h1>
 
 ---
@@ -39,7 +39,7 @@ Esta é a tela que é aberta ao iniciar o aplicativo, igualmente ao aplicativo o
 
 <div align="center">
     <h1>
-        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg" style="width:80px; margin-right:10px;">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/Home-1_IefcpNYlj.jpeg"  width="150">
         <img src="https://ik.imagekit.io/ur6xo9m70i/Home-2_l4QTtoB4O_.jpeg" style="width:80px; margin-left:10px;">
     </h1>
 </div>
