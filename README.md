@@ -13,7 +13,7 @@
 
 ---
 
-## 📔  Sobre
+## 📔 Sobre
 
 O objetivo do projeto foi clonar a interface do aplicativo de Delivery de alimentos **Ifood**!
 
